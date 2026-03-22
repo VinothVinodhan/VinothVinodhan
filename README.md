@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VinothVinodhan
-- I have 7+ experience in Software Testing
+- I have 10 experience in Software Testing
 - I Educate people on Automation Testing
 - You can find Automation Related artifacts from my GIT Account.
 
